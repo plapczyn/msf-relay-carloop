@@ -1,4 +1,4 @@
-spark-msf-relay
+msf-relay-carloop
 ========================
 
 Metasploit HWBridge API Relay Library
@@ -26,13 +26,14 @@ Thanks to :
 - [SLRE: Super Light Regular Expression library](https://github.com/cesanta/slre)
 - [Marcussacapuces91 Github / SparkCore-RESTserver ](https://github.com/Marcussacapuces91/SparkCore-RESTserver)
 - [Joyent Github/ http-parser](https://github.com/joyent/http-parser)
+- [Craig Smith/ spark-msf-relay](https://github.com/zombieCraig/spark-msf-relay)
 
-### Projet "MSF_Relay.ino"
+### Projet "MSF-Carloop.ino"
 
 TODO: Describe how to find the IP in console.  How to connect via Metasploit
 
 ### Installation
-- [Connect the Spark Core to your wifi](https://www.spark.io/start)
+- [Connect your Particle to your wifi](https://www.spark.io/start)
 - [Deploy the firmware using the Spark Cloud](https://www.spark.io/build/)
 - How add files in project :
 
